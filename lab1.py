@@ -1,4 +1,4 @@
-#Khayal Khuduzada 6523a5
+#Khayal Khuduzada 6523a5 N025
 s=0
 x=3
 n=1
